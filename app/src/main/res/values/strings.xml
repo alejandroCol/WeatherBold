@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="retry">Retry</string>
+    <string name="search_hint">Search a locality…</string>
+    <string name="label_chart">Average temperature in centigrade</string>
+    <string name="title_chart">Next 3 days:</string>
+    <string name="chart_description">Weather</string>
+    <string name="empty_message">Try again with another search</string>
+    <string name="error_connection">Sorry, we have a problem connection</string>
+</resources>

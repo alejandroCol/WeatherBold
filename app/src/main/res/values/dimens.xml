@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_detail">250dp</dimen>
+    <dimen name="barchart_height">200dp</dimen>
+    <dimen name="padding_item_list">24dp</dimen>
+    <dimen name="elevation_item_list">8dp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="card_elevation">24dp</dimen>
+    <dimen name="size_icon_empty">100dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+</resources>
